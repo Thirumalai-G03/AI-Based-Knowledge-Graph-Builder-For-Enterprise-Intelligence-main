@@ -1,7 +1,7 @@
 # 🧠 (KGB) AI-Based Knowledge Graph Builder for Enterprise Intelligence
 
 ## **Developed as part of the Infosys Springboard Internship Program**
-## **Author:** Vasudha Tulla
+## **Author:** THIRUMALAI SELVAN G
 ## **Live Demo:** [🚀 Launch App on Render](https://kgb-01.onrender.com)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
