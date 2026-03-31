@@ -328,12 +328,12 @@ Milestone 4 ✅ Dashboard + Metrics + Deployment   — Completed
 
 # 👩‍💻 Author
 
-**Vasudha Tulla**
-*B.Tech CSE (AI & ML) · Global Institute of Engineering & Technology, Hyderabad*
+**THIRUMALAI SELVAN G**
+*B.Tech Information Technology · R.M.K. Engineering college, Tamil Nadu*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasudha-tulla-95b35a335)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasudha0615)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tullavasudha@gmail.com)
+[![LinkedIn](www.linkedin.com/in/thirumalai-selvan-g)
+[![GitHub](https://github.com/Thirumalai-G03)
+[![Email](231074.it@rmkec.ac.in)
 
 
 ---
